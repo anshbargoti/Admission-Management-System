@@ -8,4 +8,5 @@
 ```                       
 1. open cmd prompt in windows
 2. run -> javac LPU.java
-3. run -> java LPU```
+3. run -> java LPU
+```
